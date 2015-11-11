@@ -1,4 +1,42 @@
+@media all and (max-width: 500px) {
 
+.top-navigation > .content > h1,
+ .top-navigation > .content > h2 {
+        font-size: 33px;
+    }
+.nav-buttons {
+	height: 2.5em;
+	width: 5em;
+	margin: -1em 0em;
+	font-size: 13px;
+ 	
+ }
+.about-me > h1,
+.screenshots > h1,
+.social > h1 {
+	font-size: 28px !important;
+}
+
+.social > .content > .social-links li {
+	width: 3em;
+	height: 2em;
+	margin: 0 .5em;
+}
+
+.fa {
+ font-size: 1.2em !important;
+}
+
+.social {
+	padding: 1em 0 !important;
+}
+
+img {
+	margin: 0 0 !important;
+	width: 150px !important;
+	height: 111.5px !important;
+}
+}
 
 .content {
 	text-align: center;
@@ -17,7 +55,7 @@
 	border: 1em solid white: ;
 }
 
-.top-navigation > .content > h1 {
+.content > h1 {
 	color: #2d4022;
 	font-weight: bolder;
 	font-size: 80px;
@@ -26,7 +64,7 @@
 	text-shadow: 0 0 33px #fff, 0 0 5px #fff;
 }
 
-.top-navigation > .content > h2 {
+.content > h2 {
 	color: #fff;
 	font-weight: normal;
 	font-size: 50px;
@@ -39,7 +77,7 @@
 
 /*buttons styling*/
 .buttons {
-	margin-top: 3em;
+	margin-top: 2em;
 
 }
 
