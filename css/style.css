@@ -5,17 +5,22 @@
         font-size: 33px;
     }
 .nav-buttons {
-	height: 2.5em;
-	width: 5em;
-	margin: -1em 0em;
-	font-size: 13px;
+	height: 3em;
+	width: 6em;
+	margin: 0;
+	font-size: 14px;
  	
  }
+
 .about-me > h1,
 .screenshots > h1,
 .social > h1 {
 	font-size: 28px !important;
 }
+
+	p {
+		font-size: 1.3em;
+	}
 
 .social > .content > .social-links li {
 	width: 3em;
