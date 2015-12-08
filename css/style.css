@@ -188,6 +188,8 @@ img {
 .social ul {
 	margin-top: 0;
 	padding-left: 0;
+	display: flex;
+    justify-content: space-between;
 }
 
 .github {
